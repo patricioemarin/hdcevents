@@ -187,6 +187,23 @@ header {
     display: flex;
 }
 
+#description-container {
+    margin-top: 30px;
+}
+
+.dashboard-title-container {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.dashboard-events-container th {
+    width: 25%;
+}
+
+.dashboard-events-container form {
+    display: inline-block;
+}
+
 footer {
     text-align: center;
     background-color: #353e48;
